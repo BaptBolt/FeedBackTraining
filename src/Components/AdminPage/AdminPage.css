@@ -1,0 +1,16 @@
+.allPageAdmin{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.allPageAdmin h2{
+  color: white;
+  margin-top : 30px;
+}
+.resultsArrary{
+  height: 540px;
+  overflow: scroll;
+}

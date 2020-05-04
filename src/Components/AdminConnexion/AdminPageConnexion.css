@@ -1,0 +1,24 @@
+.allPageConnexion{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 119px;
+}
+
+@media screen and (min-width: 640px) {
+  .form-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .form-group input{
+    width: 40%;
+  }
+
+  label{
+    margin-top: 30px;
+  }
+
+}

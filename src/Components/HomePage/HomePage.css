@@ -1,0 +1,44 @@
+.formulaire{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.formulaire h1{
+  margin: 45px 0;
+  color: white;
+}
+.formulaire label {
+  color: rgb(219, 219, 219);
+}
+.formulaire h2{
+  color: white;
+}
+.critere{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.critere p{
+  color: rgb(219, 219, 219);
+}
+
+#inputTime{
+  height: 32px;
+  width: 92px;
+}
+.inputRange{
+  width: 80%;
+  height: 55px;
+}
+
+.graduations{
+  display: flex;
+  flex-direction: row;
+  width: 118%;
+  justify-content: space-around;
+}

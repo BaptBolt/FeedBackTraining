@@ -1,0 +1,25 @@
+.title{
+  font-family: "Chopsic";
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title h1{
+  margin-bottom: 110px;
+}
+
+.allPage{
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.img{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  width: 150px;
+}

@@ -1,0 +1,23 @@
+.allPageConnexion{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.allPageConnexion h1{
+  color: white;
+}
+
+.newCompte{
+  color: white;
+}
+
+.btn.btn-secondary.btn-lgf{
+  display: block;
+}
+.buttonsRetourAdmin{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}

@@ -1,0 +1,19 @@
+.formNewUser{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.titleNewUser{
+  margin-bottom: 20px;
+  color: white;
+}
+
+.returnButton{
+  padding: 10px;
+}
+
+.formNewUser .form-group{
+  width: 80%;
+}

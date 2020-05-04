@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(90deg, rgba(255,172,62,1) 0%, rgba(255,132,0,1) 64%);
+
+  /* background-color: rgb(231, 144, 62) !important; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Sportzs';
+  src: local('Sportzs'), url(./Assets/Fonts/Sportzs.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Chopsic';
+  src: local('Chopsic'), url(./Assets/Fonts/Chopsic.otf) format('truetype');
+}
+
